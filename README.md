@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm José Andrés Salazar</h1>
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
+<p>
+Hello, my name is Jose Andres, I am 23 years old and I am a self-taught person who is enthusiastic about technology. I have frontend and backend knowledge, with special interest in the backend. I am currently looking for my first job opportunity to continue growing in this field.
+</p>
+
 - 🌱 I’m currently learning clean architecture **React, Express**
 
 - 📫 How to reach me **jose.dev2708@gmail.com**
