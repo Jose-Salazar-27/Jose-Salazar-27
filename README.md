@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Venezuela</h3>
 
 <p>
-Hello, my name is Jose Andres, I am 23 years old and I am a self-taught person who is enthusiastic about technology. I have frontend and backend knowledge, with special interest in the backend. I am currently looking for my first job opportunity to continue growing in this field.
+Hello, my name is Jose Andres, I am 23 years old and I am a self-taught person who is enthusiastic about technology. I have frontend and backend knowledge, with special interest in the backend. I am currently working at Freekee labs, as backend developer.
 </p>
 
 - 🌱 I’m currently learning clean architecture **React, Express**
